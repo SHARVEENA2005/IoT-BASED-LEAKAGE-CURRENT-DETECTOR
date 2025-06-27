@@ -22,3 +22,22 @@ The **IoT-Based Leakage Current Detector** is a smart safety system designed to 
 
 ---
 
+## 🧪 Testing Instructions
+1.Power the circuit and connect to Wi-Fi.
+2.Simulate leakage by introducing a current above the threshold.
+3.Observe buzzer, LED, and cloud response.
+4.Verify real-time notification on your phone/cloud platform.
+
+---
+
+## 📦 Applications
+1.Homes and apartments
+2.Schools and daycare centers
+3.Industrial setups with sensitive equipment
+4.Smart buildings and IoT safety systems
+
+---
+
+👨‍💻 Developed by
+Sharveena N
+Electronics & IoT Lab, [M Kumarasamy College of Engineering ]
